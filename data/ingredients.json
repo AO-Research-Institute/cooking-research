@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Banana",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": 1
+    },
+    "origin": "Limestone Key, Shell Island"
+  },
+  {
+    "name": "Blue mushroom",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 14,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Energizing",
+      "tier": 2
+    },
+    "origin": "Mango Isle, Mount Orthys"
+  },
+  {
+    "name": "Brown mushroom",
+    "category": "mushroom",
+    "energy": 6,
+    "cooked_energy": 12,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Energizing",
+      "tier": 1
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Cloudcap mushroom",
+    "category": "mushroom",
+    "energy": 8,
+    "cooked_energy": 13,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Energizing",
+      "tier": 2
+    },
+    "origin": "The Stepstones, Cirrus Island, Djinn Ruins, Skycliff Island"
+  },
+  {
+    "name": "Coconut",
+    "category": "fruit",
+    "energy": 7,
+    "cooked_energy": 3,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": null
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Cursed mushroom",
+    "category": "mushroom",
+    "energy": 10,
+    "cooked_energy": 23,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "Akursius Keep"
+  },
+  {
+    "name": "Festive Cookie Dough",
+    "category": "limited",
+    "energy": 12, 
+    "cooked_energy": 45,
+    "worth": 20,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 1
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Giant greencap",
+    "category": "mushroom",
+    "energy": 20,
+    "cooked_energy": 25,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "Whispering Caverns"
+  },
+  {
+    "name": "Giant purplecap",
+    "category": "mushroom",
+    "energy": 36,
+    "cooked_energy": 45,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Energizing",
+      "tier": 4
+    },
+    "origin": "Nimbus Wilds"
+  },
+  {
+    "name": "Giant redcap",
+    "category": "mushroom",
+    "energy": 24,
+    "cooked_energy": 30,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "Nimbus Wilds"
+  },
+  {
+    "name": "Giant seacap",
+    "category": "mushroom",
+    "energy": 28,
+    "cooked_energy": 44,
+    "worth": 16,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Energizing",
+      "tier": 4
+    },
+    "origin": "Nimbus Wilds"
+  },
+  {
+    "name": "Grapes",
+    "category": "fruit",
+    "energy": 10,
+    "cooked_energy": 5,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": null
+    },
+    "origin": "Thorin's Refuge"
+  },
+  {
+    "name": "Green apple",
+    "category": "fruit",
+    "energy": 11,
+    "cooked_energy": 13,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": 1
+    },
+    "origin": "The Forest of Cernunno"
+  },
+  {
+    "name": "Lime",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Dawn Island"
+  },
+  {
+    "name": "Mango",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Mango Isle"
+  },
+  {
+    "name": "Marula",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 15,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Ravenna"
+  },
+  {
+    "name": "Omprela mushroom",
+    "category": "mushroom",
+    "energy": 22,
+    "cooked_energy": 27,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Orange",
+    "category": "fruit",
+    "energy": 9,
+    "cooked_energy": 4,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": null
+    },
+    "origin": "Goso Jungle"
+  },
+  {
+    "name": "Orange Swiftcap",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 15,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "Cirrus Island, Skycliff Island"
+  },
+  {
+    "name": "Peach",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 6,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Munera Garden"
+  },
+  {
+    "name": "Prickly pear",
+    "category": "fruit",
+    "energy": 11,
+    "cooked_energy": 13,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Sandfall Isle"
+  },
+  {
+    "name": "Pumpkin",
+    "category": "fruit",
+    "energy": 22,
+    "cooked_energy": 40,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Harvest Island"
+  },
+  {
+    "name": "Red apple",
+    "category": "fruit",
+    "energy": 10,
+    "cooked_energy": 12,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Invigorating",
+      "tier": 1
+    },
+    "origin": "Harvest Island, Palo Town"
+  },
+  {
+    "name": "Satura mushroom",
+    "category": "mushroom",
+    "energy": 100,
+    "cooked_energy": 160,
+    "worth": null,
+    "rarity": "Legendary",
+    "status": {
+      "type": "Energizing",
+      "tier": 5
+    },
+    "origin": "Nimbus Wilds"
+  },
+  {
+    "name": "Seacap mushroom",
+    "category": "mushroom",
+    "energy": 14,
+    "cooked_energy": 22,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Sky apple",
+    "category": "fruit",
+    "energy": 15,
+    "cooked_energy": 18,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "Thorin's Refuge, The Stepstones"
+  },
+  {
+    "name": "Sky grapefruit",
+    "category": "fruit",
+    "energy": 17,
+    "cooked_energy": 17,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Sky grapes",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 6,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "Cirrus Island"
+  },
+  {
+    "name": "Sky lemon",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 13,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "Djinn Ruins"
+  },
+  {
+    "name": "Sky pear",
+    "category": "fruit",
+    "energy": 17,
+    "cooked_energy": 20,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Sky pumpkin",
+    "category": "fruit",
+    "energy": 33,
+    "cooked_energy": 61,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "The Sky (Side Quest)"
+  },
+  {
+    "name": "Sky watermelon",
+    "category": "fruit",
+    "energy": 37,
+    "cooked_energy": 9,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Invigorating",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Sourcap",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 10,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Energizing",
+      "tier": 2
+    },
+    "origin": "Nimbus Wilds"
+  },
+  {
+    "name": "Stormfruit",
+    "category": "fruit",
+    "energy": 30,
+    "cooked_energy": 37,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos apple",
+    "category": "fruit",
+    "energy": 22,
+    "cooked_energy": 26,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos grapefruit",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 25,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos lemon",
+    "category": "fruit",
+    "energy": 20,
+    "cooked_energy": 20,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos pear",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 30,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos pumpkin",
+    "category": "fruit",
+    "energy": 50,
+    "cooked_energy": 93,
+    "worth": null,
+    "rarity": "Legendary",
+    "status": {
+      "type": "Invigorating",
+      "tier": 5
+    },
+    "origin": "Maynard Farm, Nimbus Lands"
+  },
+  {
+    "name": "Stratos watermelon",
+    "category": "fruit",
+    "energy": 55,
+    "cooked_energy": 13,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Invigorating",
+      "tier": 4
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Stratos sourcap",
+    "category": "mushroom",
+    "energy": 14,
+    "cooked_energy": 16,
+    "worth": null,
+    "rarity": "Rare",
+    "status": {
+      "type": "Energizing",
+      "tier": 3
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Tomato",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 14,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Ravenna"
+  },
+  {
+    "name": "Watermelon",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 6,
+    "worth": null,
+    "rarity": "Uncommon",
+    "status": {
+      "type": "Invigorating",
+      "tier": 2
+    },
+    "origin": "Goso Jungle"
+  },
+  {
+    "name": "Wheat",
+    "category": "wheat",
+    "energy": 4,
+    "cooked_energy": 21,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Ravenna (Side Quest)"
+  },
+  {
+    "name": "White mushroom",
+    "category": "mushroom",
+    "energy": 7,
+    "cooked_energy": 14,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Energizing",
+      "tier": 1
+    },
+    "origin": "unknown"
+  },
+  {
+    "name": "Raw Kraken meat",
+    "category": "meat",
+    "energy": 150,
+    "cooked_energy": 240,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Kraken, Giant Kraken"
+  },
+  {
+    "name": "Raw Krystoros meat",
+    "category": "meat",
+    "energy": 135,
+    "cooked_energy": 202,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Krystoros"
+  },
+  {
+    "name": "Raw Kynatos meat",
+    "category": "meat",
+    "energy": 60,
+    "cooked_energy": 90,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Kynatos"
+  },
+  {
+    "name": "Raw Omen meat",
+    "category": "meat",
+    "energy": 200,
+    "cooked_energy": 320,
+    "worth": null,
+    "rarity": "Legendary",
+    "status": {
+      "type": "Recovery",
+      "tier": 5
+    },
+    "origin": "The Omen"
+  },
+  {
+    "name": "Raw Pnevma meat",
+    "category": "meat",
+    "energy": 60,
+    "cooked_energy": 90,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Pnevma"
+  },
+  {
+    "name": "Raw Terasavros meat",
+    "category": "meat",
+    "energy": 135,
+    "cooked_energy": 202,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Terasavros"
+  },
+  {
+    "name": "Raw Thymos meat",
+    "category": "meat",
+    "energy": 120,
+    "cooked_energy": 180,
+    "worth": null,
+    "rarity": "Mystic",
+    "status": {
+      "type": "Recovery",
+      "tier": 4
+    },
+    "origin": "Thymos"
+  },
+  {
+    "name": "Raw bear meat",
+    "category": "meat",
+    "energy": 40,
+    "cooked_energy": 60,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Brown Bear, Alpha Black Bear, Ancient Cave Bear, Black Bear, Armored Bear"
+  },
+  {
+    "name": "Raw bird meat",
+    "category": "meat",
+    "energy": 10,
+    "cooked_energy": 15,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Destroying birds, Food Merchant"
+  },
+  {
+    "name": "Raw boar meat",
+    "category": "meat",
+    "energy": 25,
+    "cooked_energy": 37,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Boar, Black Boar, Stonetusk Boar"
+  },
+  {
+    "name": "Raw crocodile meat",
+    "category": "meat",
+    "energy": 35,
+    "cooked_energy": 52,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Crocodile, Spined Crocodile"
+  },
+  {
+    "name": "Raw deer meat",
+    "category": "meat",
+    "energy": 45,
+    "cooked_energy": 67,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Deer, Reindeer, Food Merchant"
+  },
+  {
+    "name": "Raw rabbit meat",
+    "category": "meat",
+    "energy": 10,
+    "cooked_energy": 15,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Rabbit, Grey Rabbit, White Rabbit"
+  },
+  {
+    "name": "Raw tiger meat",
+    "category": "meat",
+    "energy": 30,
+    "cooked_energy": 45,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Tiger, Panther, White Tiger, Blood Tiger"
+  },
+  {
+    "name": "Raw wolf meat",
+    "category": "meat",
+    "energy": 20,
+    "cooked_energy": 30,
+    "worth": null,
+    "rarity": "Common",
+    "status": {
+      "type": "Recovery",
+      "tier": 1
+    },
+    "origin": "Wolf, Brown Wolf, White Wolf, Shadow Wolf"
+  }
+]

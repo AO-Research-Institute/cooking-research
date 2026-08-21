@@ -1,0 +1,244 @@
+[
+  {
+    "group_id": 1,
+    "member_count": 13,
+    "members": [
+      "Raw Krystoros meat",
+      "Raw Kynatos meat",
+      "Raw Pnevma meat",
+      "Raw Terasavros meat",
+      "Raw Thymos meat",
+      "Raw bear meat",
+      "Raw bird meat",
+      "Raw boar meat",
+      "Raw crocodile meat",
+      "Raw deer meat",
+      "Raw rabbit meat",
+      "Raw tiger meat",
+      "Raw wolf meat"
+    ],
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.5037037037037038,
+      "width": 0.003703703703703704
+    },
+    "representative_multiplier": 1.5,
+    "representative_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 2,
+    "member_count": 11,
+    "members": [
+      "Green apple",
+      "Marula",
+      "Prickly pear",
+      "Red apple",
+      "Sky apple",
+      "Sky pear",
+      "Sourcap",
+      "Stratos apple",
+      "Stratos pear",
+      "Stratos sourcap",
+      "Tomato"
+    ],
+    "compatible_interval": {
+      "lower": 1.2,
+      "upper": 1.2142857142857142,
+      "width": 0.014285714285714285
+    },
+    "representative_multiplier": 1.2,
+    "representative_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 3,
+    "member_count": 7,
+    "members": [
+      "Banana",
+      "Lime",
+      "Mango",
+      "Sky grapefruit",
+      "Sky lemon",
+      "Stratos grapefruit",
+      "Stratos lemon"
+    ],
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.04,
+      "width": 0.04
+    },
+    "representative_multiplier": 1.0,
+    "representative_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "group_id": 4,
+    "member_count": 6,
+    "members": [
+      "Blue mushroom",
+      "Giant seacap",
+      "Satura mushroom",
+      "Seacap mushroom",
+      "Raw Kraken meat",
+      "Raw Omen meat"
+    ],
+    "compatible_interval": {
+      "lower": 1.6,
+      "upper": 1.605,
+      "width": 0.005
+    },
+    "representative_multiplier": 1.6,
+    "representative_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 5,
+    "member_count": 5,
+    "members": [
+      "Giant greencap",
+      "Giant purplecap",
+      "Giant redcap",
+      "Omprela mushroom",
+      "Stormfruit"
+    ],
+    "compatible_interval": {
+      "lower": 1.25,
+      "upper": 1.2666666666666666,
+      "width": 0.016666666666666666
+    },
+    "representative_multiplier": 1.25,
+    "representative_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 6,
+    "member_count": 5,
+    "members": [
+      "Coconut",
+      "Grapes",
+      "Orange",
+      "Peach",
+      "Sky grapes"
+    ],
+    "compatible_interval": {
+      "lower": 0.5,
+      "upper": 0.5384615384615384,
+      "width": 0.038461538461538464
+    },
+    "representative_multiplier": 0.5,
+    "representative_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "group_id": 7,
+    "member_count": 3,
+    "members": [
+      "Pumpkin",
+      "Sky pumpkin",
+      "Stratos pumpkin"
+    ],
+    "compatible_interval": {
+      "lower": 1.86,
+      "upper": 1.8636363636363635,
+      "width": 0.0036363636363636364
+    },
+    "representative_multiplier": 1.8620689655172413,
+    "representative_fraction": "54/29",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 8,
+    "member_count": 3,
+    "members": [
+      "Sky watermelon",
+      "Stratos watermelon",
+      "Watermelon"
+    ],
+    "compatible_interval": {
+      "lower": 0.24324324324324326,
+      "upper": 0.2545454545454545,
+      "width": 0.011302211302211302
+    },
+    "representative_multiplier": 0.25,
+    "representative_fraction": "1/4",
+    "confidence": "very_strong"
+  },
+  {
+    "group_id": 9,
+    "member_count": 2,
+    "members": [
+      "Cloudcap mushroom",
+      "Orange Swiftcap"
+    ],
+    "compatible_interval": {
+      "lower": 1.6666666666666667,
+      "upper": 1.75,
+      "width": 0.08333333333333333
+    },
+    "representative_multiplier": 1.6666666666666667,
+    "representative_fraction": "5/3",
+    "confidence": "moderate"
+  },
+  {
+    "group_id": 10,
+    "member_count": 2,
+    "members": [
+      "Brown mushroom",
+      "White mushroom"
+    ],
+    "compatible_interval": {
+      "lower": 2.0,
+      "upper": 2.142857142857143,
+      "width": 0.14285714285714285
+    },
+    "representative_multiplier": 2.0,
+    "representative_fraction": "2/1",
+    "confidence": "moderate"
+  },
+  {
+    "group_id": 11,
+    "member_count": 1,
+    "members": [
+      "Cursed mushroom"
+    ],
+    "compatible_interval": {
+      "lower": 2.3,
+      "upper": 2.4,
+      "width": 0.1
+    },
+    "representative_multiplier": 2.3,
+    "representative_fraction": "23/10",
+    "confidence": "single"
+  },
+  {
+    "group_id": 12,
+    "member_count": 1,
+    "members": [
+      "Festive Cookie Dough"
+    ],
+    "compatible_interval": {
+      "lower": 3.75,
+      "upper": 3.8333333333333335,
+      "width": 0.08333333333333333
+    },
+    "representative_multiplier": 3.75,
+    "representative_fraction": "15/4",
+    "confidence": "single"
+  },
+  {
+    "group_id": 13,
+    "member_count": 1,
+    "members": [
+      "Wheat"
+    ],
+    "compatible_interval": {
+      "lower": 5.25,
+      "upper": 5.5,
+      "width": 0.25
+    },
+    "representative_multiplier": 5.25,
+    "representative_fraction": "21/4",
+    "confidence": "single"
+  }
+]

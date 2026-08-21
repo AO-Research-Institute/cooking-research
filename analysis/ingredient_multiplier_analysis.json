@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Banana",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.0833333333333333
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Blue mushroom",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 14,
+    "observed_ratio": 1.5555555555555556,
+    "compatible_interval": {
+      "lower": 1.5555555555555556,
+      "upper": 1.6666666666666667
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Brown mushroom",
+    "category": "mushroom",
+    "energy": 6,
+    "cooked_energy": 12,
+    "observed_ratio": 2.0,
+    "compatible_interval": {
+      "lower": 2.0,
+      "upper": 2.1666666666666665
+    },
+    "group_id": 10,
+    "inferred_multiplier": 2.0,
+    "inferred_multiplier_fraction": "2/1",
+    "confidence": "moderate"
+  },
+  {
+    "name": "Cloudcap mushroom",
+    "category": "mushroom",
+    "energy": 8,
+    "cooked_energy": 13,
+    "observed_ratio": 1.625,
+    "compatible_interval": {
+      "lower": 1.625,
+      "upper": 1.75
+    },
+    "group_id": 9,
+    "inferred_multiplier": 1.6666666666666667,
+    "inferred_multiplier_fraction": "5/3",
+    "confidence": "moderate"
+  },
+  {
+    "name": "Coconut",
+    "category": "fruit",
+    "energy": 7,
+    "cooked_energy": 3,
+    "observed_ratio": 0.42857142857142855,
+    "compatible_interval": {
+      "lower": 0.42857142857142855,
+      "upper": 0.5714285714285714
+    },
+    "group_id": 6,
+    "inferred_multiplier": 0.5,
+    "inferred_multiplier_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "name": "Cursed mushroom",
+    "category": "mushroom",
+    "energy": 10,
+    "cooked_energy": 23,
+    "observed_ratio": 2.3,
+    "compatible_interval": {
+      "lower": 2.3,
+      "upper": 2.4
+    },
+    "group_id": 11,
+    "inferred_multiplier": 2.3,
+    "inferred_multiplier_fraction": "23/10",
+    "confidence": "single"
+  },
+  {
+    "name": "Festive Cookie Dough",
+    "category": "limited",
+    "energy": 12,
+    "cooked_energy": 45,
+    "observed_ratio": 3.75,
+    "compatible_interval": {
+      "lower": 3.75,
+      "upper": 3.8333333333333335
+    },
+    "group_id": 12,
+    "inferred_multiplier": 3.75,
+    "inferred_multiplier_fraction": "15/4",
+    "confidence": "single"
+  },
+  {
+    "name": "Giant greencap",
+    "category": "mushroom",
+    "energy": 20,
+    "cooked_energy": 25,
+    "observed_ratio": 1.25,
+    "compatible_interval": {
+      "lower": 1.25,
+      "upper": 1.3
+    },
+    "group_id": 5,
+    "inferred_multiplier": 1.25,
+    "inferred_multiplier_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Giant purplecap",
+    "category": "mushroom",
+    "energy": 36,
+    "cooked_energy": 45,
+    "observed_ratio": 1.25,
+    "compatible_interval": {
+      "lower": 1.25,
+      "upper": 1.2777777777777777
+    },
+    "group_id": 5,
+    "inferred_multiplier": 1.25,
+    "inferred_multiplier_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Giant redcap",
+    "category": "mushroom",
+    "energy": 24,
+    "cooked_energy": 30,
+    "observed_ratio": 1.25,
+    "compatible_interval": {
+      "lower": 1.25,
+      "upper": 1.2916666666666667
+    },
+    "group_id": 5,
+    "inferred_multiplier": 1.25,
+    "inferred_multiplier_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Giant seacap",
+    "category": "mushroom",
+    "energy": 28,
+    "cooked_energy": 44,
+    "observed_ratio": 1.5714285714285714,
+    "compatible_interval": {
+      "lower": 1.5714285714285714,
+      "upper": 1.6071428571428572
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Grapes",
+    "category": "fruit",
+    "energy": 10,
+    "cooked_energy": 5,
+    "observed_ratio": 0.5,
+    "compatible_interval": {
+      "lower": 0.5,
+      "upper": 0.6
+    },
+    "group_id": 6,
+    "inferred_multiplier": 0.5,
+    "inferred_multiplier_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "name": "Green apple",
+    "category": "fruit",
+    "energy": 11,
+    "cooked_energy": 13,
+    "observed_ratio": 1.1818181818181819,
+    "compatible_interval": {
+      "lower": 1.1818181818181819,
+      "upper": 1.2727272727272727
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Lime",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.0833333333333333
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Mango",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 12,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.0833333333333333
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Marula",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 15,
+    "observed_ratio": 1.1538461538461537,
+    "compatible_interval": {
+      "lower": 1.1538461538461537,
+      "upper": 1.2307692307692308
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Omprela mushroom",
+    "category": "mushroom",
+    "energy": 22,
+    "cooked_energy": 27,
+    "observed_ratio": 1.2272727272727273,
+    "compatible_interval": {
+      "lower": 1.2272727272727273,
+      "upper": 1.2727272727272727
+    },
+    "group_id": 5,
+    "inferred_multiplier": 1.25,
+    "inferred_multiplier_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Orange",
+    "category": "fruit",
+    "energy": 9,
+    "cooked_energy": 4,
+    "observed_ratio": 0.4444444444444444,
+    "compatible_interval": {
+      "lower": 0.4444444444444444,
+      "upper": 0.5555555555555556
+    },
+    "group_id": 6,
+    "inferred_multiplier": 0.5,
+    "inferred_multiplier_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "name": "Orange Swiftcap",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 15,
+    "observed_ratio": 1.6666666666666667,
+    "compatible_interval": {
+      "lower": 1.6666666666666667,
+      "upper": 1.7777777777777777
+    },
+    "group_id": 9,
+    "inferred_multiplier": 1.6666666666666667,
+    "inferred_multiplier_fraction": "5/3",
+    "confidence": "moderate"
+  },
+  {
+    "name": "Peach",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 6,
+    "observed_ratio": 0.5,
+    "compatible_interval": {
+      "lower": 0.5,
+      "upper": 0.5833333333333334
+    },
+    "group_id": 6,
+    "inferred_multiplier": 0.5,
+    "inferred_multiplier_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "name": "Prickly pear",
+    "category": "fruit",
+    "energy": 11,
+    "cooked_energy": 13,
+    "observed_ratio": 1.1818181818181819,
+    "compatible_interval": {
+      "lower": 1.1818181818181819,
+      "upper": 1.2727272727272727
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Pumpkin",
+    "category": "fruit",
+    "energy": 22,
+    "cooked_energy": 40,
+    "observed_ratio": 1.8181818181818181,
+    "compatible_interval": {
+      "lower": 1.8181818181818181,
+      "upper": 1.8636363636363635
+    },
+    "group_id": 7,
+    "inferred_multiplier": 1.8620689655172413,
+    "inferred_multiplier_fraction": "54/29",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Red apple",
+    "category": "fruit",
+    "energy": 10,
+    "cooked_energy": 12,
+    "observed_ratio": 1.2,
+    "compatible_interval": {
+      "lower": 1.2,
+      "upper": 1.3
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Satura mushroom",
+    "category": "mushroom",
+    "energy": 100,
+    "cooked_energy": 160,
+    "observed_ratio": 1.6,
+    "compatible_interval": {
+      "lower": 1.6,
+      "upper": 1.61
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Seacap mushroom",
+    "category": "mushroom",
+    "energy": 14,
+    "cooked_energy": 22,
+    "observed_ratio": 1.5714285714285714,
+    "compatible_interval": {
+      "lower": 1.5714285714285714,
+      "upper": 1.6428571428571428
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Sky apple",
+    "category": "fruit",
+    "energy": 15,
+    "cooked_energy": 18,
+    "observed_ratio": 1.2,
+    "compatible_interval": {
+      "lower": 1.2,
+      "upper": 1.2666666666666666
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Sky grapefruit",
+    "category": "fruit",
+    "energy": 17,
+    "cooked_energy": 17,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.0588235294117647
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Sky grapes",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 6,
+    "observed_ratio": 0.46153846153846156,
+    "compatible_interval": {
+      "lower": 0.46153846153846156,
+      "upper": 0.5384615384615384
+    },
+    "group_id": 6,
+    "inferred_multiplier": 0.5,
+    "inferred_multiplier_fraction": "1/2",
+    "confidence": "strong"
+  },
+  {
+    "name": "Sky lemon",
+    "category": "fruit",
+    "energy": 13,
+    "cooked_energy": 13,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.0769230769230769
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Sky pear",
+    "category": "fruit",
+    "energy": 17,
+    "cooked_energy": 20,
+    "observed_ratio": 1.1764705882352942,
+    "compatible_interval": {
+      "lower": 1.1764705882352942,
+      "upper": 1.2352941176470589
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Sky pumpkin",
+    "category": "fruit",
+    "energy": 33,
+    "cooked_energy": 61,
+    "observed_ratio": 1.8484848484848484,
+    "compatible_interval": {
+      "lower": 1.8484848484848484,
+      "upper": 1.878787878787879
+    },
+    "group_id": 7,
+    "inferred_multiplier": 1.8620689655172413,
+    "inferred_multiplier_fraction": "54/29",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Sky watermelon",
+    "category": "fruit",
+    "energy": 37,
+    "cooked_energy": 9,
+    "observed_ratio": 0.24324324324324326,
+    "compatible_interval": {
+      "lower": 0.24324324324324326,
+      "upper": 0.2702702702702703
+    },
+    "group_id": 8,
+    "inferred_multiplier": 0.25,
+    "inferred_multiplier_fraction": "1/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Sourcap",
+    "category": "mushroom",
+    "energy": 9,
+    "cooked_energy": 10,
+    "observed_ratio": 1.1111111111111112,
+    "compatible_interval": {
+      "lower": 1.1111111111111112,
+      "upper": 1.2222222222222223
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stormfruit",
+    "category": "fruit",
+    "energy": 30,
+    "cooked_energy": 37,
+    "observed_ratio": 1.2333333333333334,
+    "compatible_interval": {
+      "lower": 1.2333333333333334,
+      "upper": 1.2666666666666666
+    },
+    "group_id": 5,
+    "inferred_multiplier": 1.25,
+    "inferred_multiplier_fraction": "5/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stratos apple",
+    "category": "fruit",
+    "energy": 22,
+    "cooked_energy": 26,
+    "observed_ratio": 1.1818181818181819,
+    "compatible_interval": {
+      "lower": 1.1818181818181819,
+      "upper": 1.2272727272727273
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stratos grapefruit",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 25,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.04
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Stratos lemon",
+    "category": "fruit",
+    "energy": 20,
+    "cooked_energy": 20,
+    "observed_ratio": 1.0,
+    "compatible_interval": {
+      "lower": 1.0,
+      "upper": 1.05
+    },
+    "group_id": 3,
+    "inferred_multiplier": 1.0,
+    "inferred_multiplier_fraction": "1/1",
+    "confidence": "strong"
+  },
+  {
+    "name": "Stratos pear",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 30,
+    "observed_ratio": 1.2,
+    "compatible_interval": {
+      "lower": 1.2,
+      "upper": 1.24
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stratos pumpkin",
+    "category": "fruit",
+    "energy": 50,
+    "cooked_energy": 93,
+    "observed_ratio": 1.86,
+    "compatible_interval": {
+      "lower": 1.86,
+      "upper": 1.88
+    },
+    "group_id": 7,
+    "inferred_multiplier": 1.8620689655172413,
+    "inferred_multiplier_fraction": "54/29",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stratos watermelon",
+    "category": "fruit",
+    "energy": 55,
+    "cooked_energy": 13,
+    "observed_ratio": 0.23636363636363636,
+    "compatible_interval": {
+      "lower": 0.23636363636363636,
+      "upper": 0.2545454545454545
+    },
+    "group_id": 8,
+    "inferred_multiplier": 0.25,
+    "inferred_multiplier_fraction": "1/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Stratos sourcap",
+    "category": "mushroom",
+    "energy": 14,
+    "cooked_energy": 16,
+    "observed_ratio": 1.1428571428571428,
+    "compatible_interval": {
+      "lower": 1.1428571428571428,
+      "upper": 1.2142857142857142
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Tomato",
+    "category": "fruit",
+    "energy": 12,
+    "cooked_energy": 14,
+    "observed_ratio": 1.1666666666666667,
+    "compatible_interval": {
+      "lower": 1.1666666666666667,
+      "upper": 1.25
+    },
+    "group_id": 2,
+    "inferred_multiplier": 1.2,
+    "inferred_multiplier_fraction": "6/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Watermelon",
+    "category": "fruit",
+    "energy": 25,
+    "cooked_energy": 6,
+    "observed_ratio": 0.24,
+    "compatible_interval": {
+      "lower": 0.24,
+      "upper": 0.28
+    },
+    "group_id": 8,
+    "inferred_multiplier": 0.25,
+    "inferred_multiplier_fraction": "1/4",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Wheat",
+    "category": "wheat",
+    "energy": 4,
+    "cooked_energy": 21,
+    "observed_ratio": 5.25,
+    "compatible_interval": {
+      "lower": 5.25,
+      "upper": 5.5
+    },
+    "group_id": 13,
+    "inferred_multiplier": 5.25,
+    "inferred_multiplier_fraction": "21/4",
+    "confidence": "single"
+  },
+  {
+    "name": "White mushroom",
+    "category": "mushroom",
+    "energy": 7,
+    "cooked_energy": 14,
+    "observed_ratio": 2.0,
+    "compatible_interval": {
+      "lower": 2.0,
+      "upper": 2.142857142857143
+    },
+    "group_id": 10,
+    "inferred_multiplier": 2.0,
+    "inferred_multiplier_fraction": "2/1",
+    "confidence": "moderate"
+  },
+  {
+    "name": "Raw Kraken meat",
+    "category": "meat",
+    "energy": 150,
+    "cooked_energy": 240,
+    "observed_ratio": 1.6,
+    "compatible_interval": {
+      "lower": 1.6,
+      "upper": 1.6066666666666667
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Krystoros meat",
+    "category": "meat",
+    "energy": 135,
+    "cooked_energy": 202,
+    "observed_ratio": 1.4962962962962962,
+    "compatible_interval": {
+      "lower": 1.4962962962962962,
+      "upper": 1.5037037037037038
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Kynatos meat",
+    "category": "meat",
+    "energy": 60,
+    "cooked_energy": 90,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.5166666666666666
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Omen meat",
+    "category": "meat",
+    "energy": 200,
+    "cooked_energy": 320,
+    "observed_ratio": 1.6,
+    "compatible_interval": {
+      "lower": 1.6,
+      "upper": 1.605
+    },
+    "group_id": 4,
+    "inferred_multiplier": 1.6,
+    "inferred_multiplier_fraction": "8/5",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Pnevma meat",
+    "category": "meat",
+    "energy": 60,
+    "cooked_energy": 90,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.5166666666666666
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Terasavros meat",
+    "category": "meat",
+    "energy": 135,
+    "cooked_energy": 202,
+    "observed_ratio": 1.4962962962962962,
+    "compatible_interval": {
+      "lower": 1.4962962962962962,
+      "upper": 1.5037037037037038
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw Thymos meat",
+    "category": "meat",
+    "energy": 120,
+    "cooked_energy": 180,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.5083333333333333
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw bear meat",
+    "category": "meat",
+    "energy": 40,
+    "cooked_energy": 60,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.525
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw bird meat",
+    "category": "meat",
+    "energy": 10,
+    "cooked_energy": 15,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.6
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw boar meat",
+    "category": "meat",
+    "energy": 25,
+    "cooked_energy": 37,
+    "observed_ratio": 1.48,
+    "compatible_interval": {
+      "lower": 1.48,
+      "upper": 1.52
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw crocodile meat",
+    "category": "meat",
+    "energy": 35,
+    "cooked_energy": 52,
+    "observed_ratio": 1.4857142857142858,
+    "compatible_interval": {
+      "lower": 1.4857142857142858,
+      "upper": 1.5142857142857142
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw deer meat",
+    "category": "meat",
+    "energy": 45,
+    "cooked_energy": 67,
+    "observed_ratio": 1.488888888888889,
+    "compatible_interval": {
+      "lower": 1.488888888888889,
+      "upper": 1.511111111111111
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw rabbit meat",
+    "category": "meat",
+    "energy": 10,
+    "cooked_energy": 15,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.6
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw tiger meat",
+    "category": "meat",
+    "energy": 30,
+    "cooked_energy": 45,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.5333333333333334
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  },
+  {
+    "name": "Raw wolf meat",
+    "category": "meat",
+    "energy": 20,
+    "cooked_energy": 30,
+    "observed_ratio": 1.5,
+    "compatible_interval": {
+      "lower": 1.5,
+      "upper": 1.55
+    },
+    "group_id": 1,
+    "inferred_multiplier": 1.5,
+    "inferred_multiplier_fraction": "3/2",
+    "confidence": "very_strong"
+  }
+]
